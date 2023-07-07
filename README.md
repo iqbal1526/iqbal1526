@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**iqbal1526/iqbal1526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a student of **Data Science** looking to utilize my analytical skills for data-driven organizations. With hands-on experience in Data Analysis and Machine Learning, I aim to put my expertise into service and contribute to business growth through data-backed decisions.
 
-Here are some ideas to get you started:
+## Skills
+- Data Analysis and Visualization
+- Machine Learning
+- Dashboards
+- Data Management and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and Libraries
+- Pandas, Numpy, Matplotlib, Plotly
+- SKlearn, Seaborn
+- Tableau, PowerBI 
+- Visual Studio, SQL Server Management Studio (SSMS)
+- HTML, CSS, JavaScript, SQL
+
