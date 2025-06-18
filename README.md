@@ -31,7 +31,7 @@ I’m **Iqbal Siddiqui**, a Full-Stack Developer & AI Engineer building data-dri
 
 ## Selected Projects
 - **VocalSplit** ([vocalsplit.org](https://vocalsplit.org)) – AI-powered vocal/instrument separator with real-time WebSocket progress updates.  
-- **DataHarbor** – No-code ML platform for automated EDA, preprocessing and model evaluation.  
+- **DataHarbor** – [[Demo](https://www.youtube.com/watch?v=QhpSyl8q0Rc)] No-code ML platform for automated EDA, preprocessing and model evaluation.  
 - **Navigrated** ([navigrated.com](https://navigrated.com)) – Mentorship platform with live calls, CV analysis and milestone-based challenges.  
 - **DeltaPrime** ([deltaprime.io](https://deltaprime.io)) – Landing page and QA contributions for DeltaPrime.io’s fintech platform.  
 - **Open-Source Power BI Dashboards** – Three interactive, open-source dashboards built in Power BI, showcasing sales analytics, operational metrics, and AI model performance with custom DAX measures and visuals.  
