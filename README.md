@@ -50,8 +50,3 @@ I'm **Iqbal Siddiqui**, a Full-Stack Developer & Data Scientist building data-dr
 ---
 
 Feel free to reach out through my portfolio at [iqbalsid.com](https://iqbalsid.com), connect on [LinkedIn](https://www.linkedin.com/in/iqbalsiddiqui2002/), or email me at iqbalsiddiqui2001@gmail.com.
-
-## 📊 GitHub Stats
-
-[![Iqbal's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbal1526&show_icons=true&include_all_commits=true&theme=default)](https://github.com/iqbal1526)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal1526&layout=compact&theme=default)](https://github.com/iqbal1526)
